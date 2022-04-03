@@ -9,10 +9,10 @@
 El sudoku bla bla bla bla
 ## Descripción de la solución
 ***
-Usamos algoritmo de bla bla y bla bla
+Para resolver el problema bla bla bla
 ## Cómo ejecutar el programa
 ***
-Para poder probar el código es necesario abrir como proyecto la carpeta ```Desafio 1``` en un compilador compatible con Python. De esta forma el programa podrá abrir las instancias de Sudoku guardadas como txt en una carpeta vecina.
+Para poder probar el código es necesario abrir como proyecto la carpeta ```Desafio 1``` en un compilador compatible con Python. De esta forma el programa podrá abrir las instancias de Sudoku guardadas como ```txt``` en una carpeta vecina.
 
 Nuestro proyecto dispone en total de 46 instancias de Sudoku para probar, las cuales están ordenadas por dificultad. Cada una está identificada con un número en el nombre del archivo, partiendo desde la ```s01``` hasta la ```s16```. Además, cada instancia contempla 3 versiones en donde varía el estado inicial, aumentando ligeramente la dificultad. Esto está denotado con las letras ```a```, ```b``` y ```c``` al final del nombre de los archivos, siendo la versión con letra ```a``` la más fácil y la versión con letra ```c``` la más difícil.
 
