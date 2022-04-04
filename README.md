@@ -4,9 +4,9 @@
 3. [Cómo ejecutar el programa](#cómo-ejecutar-el-programa)
 4. [Video explicativo](#video-explicativo)
 5. [Coevaluación](#coevaluación)
-### Descripción del problema
+## Descripción del problema
 ***
-El sudoku bla bla bla bla
+El sudoku es un juego de lógica representado por una cuadrícula 9x9, con algunos números "pistas" puestos en celdas. El objetivo es rellenar todas las casillas con los números del 1 al 9 de tal manera en que cada número aparezca una sola vez por fila, columna y subcuadrícula 3x3.
 ## Descripción de la solución
 ***
 Para resolver el problema bla bla bla
